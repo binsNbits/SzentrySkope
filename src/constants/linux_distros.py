@@ -1,0 +1,33 @@
+linux_distros = [
+
+    'Ubuntu ',
+    'Debian ',
+    'Fedora ',
+    'CentOS ',
+    'Red Hat Enterprise Linux (RHEL) ',
+    'openSUSE ',
+    'Arch Linux ',
+    'Linux Mint ',
+    'Gentoo ',
+    'Mageia ',
+    'Slackware ',
+    'elementary OS ',
+    'Manjaro ',
+    'Kali Linux ',
+    'Zorin OS ',
+    'Raspbian ',
+    'Oracle Linux ',
+    'Scientific Linux ',
+    'Alpine Linux ',
+    'Clear Linux ',
+    'Tails ',
+    'Endless OS ',
+    'MX Linux ',
+    'Antergos ',
+    'Solus ',
+    'Void Linux ',
+    'Armbian ',
+    'Lubuntu ',
+    'Peppermint OS '
+
+]
